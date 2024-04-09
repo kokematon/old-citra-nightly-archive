@@ -1,5 +1,5 @@
 # heads up: these builds are for windows only (except 1782)
-
+no source for other versions, sadly
 ## nightly 1782 
 [looking for other platforms? someone else got it here, with source](https://archive.org/download/citra-nightly-1782-202209)
 
